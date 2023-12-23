@@ -27,7 +27,7 @@ Provide instructions on how to build and run your app locally. Include any depen
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/guessing-number-game.git
+git clone https://github.com/abdurashidovvv/NumberGuessingGame.git
 
 # Change directory
 cd guessing-number-game
